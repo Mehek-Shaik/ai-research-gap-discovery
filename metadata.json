@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Research Gap Discovery Platform",
+  "description": "An academic research intelligence platform for extracting, analyzing, comparing PDF research papers, discovering verified research gaps with evidence, and recommending future research directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

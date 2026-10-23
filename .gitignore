@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Uploads and Database storage
+uploads/*
+!uploads/.gitkeep
+data/*
+!data/.gitkeep
+
+# Python virtual environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
